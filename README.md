@@ -10,7 +10,7 @@
 
 请到本仓库 **Releases** 下载最新 Windows 安装包：
 
-
+https://github.com/ilithyia-pixiv/qingxiao-suisui-Galgame-made-by-ilithyia/releases
 
 不要从仓库文件列表里找 exe。安装包只放在 Releases 附件里。
 
